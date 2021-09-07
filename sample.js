@@ -1,4 +1,4 @@
-function Sample(){
-console.log("Sample code to test");
-// My test file
+function Sample() {
+  console.log("Sample code to test");
+  // My test file is changed
 }
